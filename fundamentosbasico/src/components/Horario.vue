@@ -48,10 +48,10 @@ export default {
 
 <style>
 .table-hover tbody tr:hover {
-  background-color: rgba(0, 0, 0, 0.1) !important;
+  background-color: rgba(230, 219, 219, 0.89) !important;
 }
 .text-muted {
   font-size: 0.9em;
-  color: #084981;
+  color: #3f90d8;
 }
 </style>
